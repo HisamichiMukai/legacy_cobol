@@ -5,5 +5,5 @@ each folder with a README.md file and more comments so that the examples are eas
 
 All program were written using [GnuCOBOL](https://gnucobol.sourceforge.io/) in Linux.  
 
-
+Original COBOL code by shamrice (MIT License)
 
